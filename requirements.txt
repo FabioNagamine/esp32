@@ -1,2 +1,2 @@
-esptool
-wget
+esptool==2.8
+wget==3.2
